@@ -6,7 +6,7 @@
 
 
 
-
+# by anssary@gmail.com
 
 Rscript <(sed -n '/\tRscript start\t/,/\tRscript end\t/p' $0|sed '1d;$d')
 
